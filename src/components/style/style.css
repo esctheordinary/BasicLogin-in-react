@@ -1,0 +1,14 @@
+.formParent {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.regform {
+    width: 22%;
+    margin: auto;
+}
+
+.input {
+    width: 98%;
+}
