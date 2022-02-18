@@ -11,6 +11,7 @@ import SetPass from './components/setpass';
 import NotFound from './components/notfound';
 
 
+//This is comment
 const isAuthenticat = () => {
   let hasAuth = false;
   const user = localStorage.getItem('user')
